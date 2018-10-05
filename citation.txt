@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=bgIUdb-7Rqo -- click button to next activity
+
+https://tausiq.wordpress.com/2012/06/16/readwrite-text-filedata-in-android-example-code/
+--read and write the  file
